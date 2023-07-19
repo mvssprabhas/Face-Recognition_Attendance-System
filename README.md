@@ -14,4 +14,4 @@ This is an attendance system which records the attendance by capturing the image
  pip install pandas
  pip install times
 
-#Any Queries/Suggestions.Please drop a mail to "uppalurianirudh@gmail.com" 
+#Any Queries/Suggestions.Please drop a mail to "mvssprabhas@gmail.com" 
